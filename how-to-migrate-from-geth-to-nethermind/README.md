@@ -6,7 +6,7 @@ description: 'Here is a step-by-step procedure for migrating from Geth to Nether
 
 **1. Install Nethermind on your machine:**
 
-* [x] Download the latest version of Nethermind from the official website (Nethermind.io/](https://downloads.nethermind.io/)) or the GitHub repository.
+* [x] Download the latest version of Nethermind from the official website ([Nethermind.io/](https://downloads.nethermind.io/)) or the GitHub repository.
 * [x] Follow the installation instructions provided to install Nethermind on your machine.
 
 **2. Export your Geth data:**
