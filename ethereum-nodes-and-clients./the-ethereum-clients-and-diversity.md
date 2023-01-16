@@ -16,6 +16,8 @@ Ethereum has different clients that are majorly differentiated by their language
 
 The current Data record shows that G0 Ethereum([Geth](https://geth.ethereum.org/docs/)) client has [over 71%](https://ethernodes.org/) Dominance and is unsafe for the entire network in case of a Bug or attack. Also, for the Consensus client, Lighthouse holds [over 61%](https://clientdiversity.org/) dominance.&#x20;
 
+Find the updated client dominance chart [here](https://ethernodes.org/).
+
 <figure><img src="https://lh6.googleusercontent.com/ns6ufP3YTXVmigJ38NKN04yA2EQhBR4N-an_-hw3UwkDkMDDW0Z9TWYoQ_sbCnCovSKQtHkVdE-Rwhcuh_VBwfT8gZ0u56fgtjcAMGkEe5LMmffAhWk6jD8F81nctAzXByS_ILY0YN_WEyGvQRm2hYoMjFC1Vu97ktjAvvzzniNAXBSfLAJ0VzzMULCatQ" alt="Ethereum client Dominance chart"><figcaption><p><a href="https://ethernodes.org/">Source: ethernodes.org</a></p></figcaption></figure>
 
 <figure><img src="https://lh4.googleusercontent.com/0YE2XAd9FDJMuNbN1Q2HfOCUvj1Mqltx6i7ALoJ94RXdQ3NZUPx0ZwkKJ5bG53HD7aeBExYRbnQs34ciHQwf4Vdioxvk7x4wLGLa3vvO0575Bfo0-XALjhdJ64Hpk0CqPbpPVlB2WaWHM6z4C9cAQAa_YKwTOxX8j-ie4ggwvEbg_H-Jh_41Gyr2gLedqQ" alt=""><figcaption><p><a href="https://clientdiversity.org/">Source: Miga Lab</a></p></figcaption></figure>
