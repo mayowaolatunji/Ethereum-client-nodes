@@ -30,14 +30,14 @@
 
 ### Prysm
 
-Prysm: Prysm is an open-source Ethereum client written in Go. It is maintained by the Prysmatic Labs team and is known for its focus on scalability and security. Like Lighthouse, Prysm is a consensus layer client that participates in the consensus process of the Ethereum network, helping to ensure the security and decentralization of the network. One of the unique features of Prysm is its support for the "Casper FFG" consensus algorithm, which is designed to improve the security and scalability of the Ethereum network.
+[Prysm](https://prysmaticlabs.com/) is an open-source Ethereum client written in Go. It is maintained by the Prysmatic Labs team and is known for its focus on scalability and security. Like Lighthouse, Prysm is a consensus layer client that participates in the consensus process of the Ethereum network, helping to ensure the security and decentralization of the network. One of the unique features of Prysm is its support for the "Casper FFG" consensus algorithm, which is designed to improve the security and scalability of the Ethereum network.
 
 ### Teku
 
-Teku is an open-source Ethereum client written in Java. It is maintained by the ConsenSys Diligence team and is known for its focus on security and compliance. Teku is a consensus layer client that participates in the consensus process of the Ethereum network, making it an important tool for ensuring the integrity of the Ethereum network. One of the unique features of Teku is its support for "cross-client attestation," which allows nodes to verify the correctness of other nodes' blocks without needing to fully validate them.
+[Teku](https://docs.teku.consensys.net/en/latest/) is an open-source Ethereum client written in Java. It is maintained by the ConsenSys Diligence team and is known for its focus on security and compliance. Teku is a consensus layer client that participates in the consensus process of the Ethereum network, making it an important tool for ensuring the integrity of the Ethereum network. One of the unique features of Teku is its support for "cross-client attestation," which allows nodes to verify the correctness of other nodes' blocks without needing to fully validate them.
 
 ### Lodestar
 
-Lodestar is an open-source Ethereum client written in TypeScript. It is maintained by the ChainSafe Systems team and is known for its focus on scalability and security. Lodestar is a consensus layer client that participates in the consensus process of the Ethereum network.
+[Lodestar](https://lodestar.chainsafe.io/) is an open-source Ethereum client written in TypeScript. It is maintained by the ChainSafe Systems team and is known for its focus on scalability and security. Lodestar is a consensus layer client that participates in the consensus process of the Ethereum network.
 
 \\
